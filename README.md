@@ -4,8 +4,10 @@ The First thing, I have been provided the temperature database from the Udacity 
 
 Tools
 
-1. SQL: To extract the data from the database 2. Microsoft Excel:
-o To calculate Moving Averages of global and city temperatures o To plot Line Chart
+1. SQL: To extract the data from the database 
+2. Microsoft Excel:
+o To calculate Moving Averages of global and city temperatures 
+o To plot Line Chart
 
 *Note: 
 the resource of picture in the cover from: https://climatekids.nasa.gov/menu/weather-and-climate/
